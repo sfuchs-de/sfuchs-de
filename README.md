@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### What I do
+
+- I am currently working modeling the domestic [freight transportation system](https://www.nber.org/programs-projects/projects-and-centers/transportation-economics-21st-century?page=1&perPage=50)
+- I am broadly interested in urban, transportational or trade type questions. 
+
+### Where to find me 
+
+- My research work is available via my [webpage](https://sfuchs-de.github.io/)
+- I [tweet](https://twitter.com/SimonFuchs4) occasionally about urban economics, transportation or trade
+
 <!--
 **sfuchs-de/sfuchs-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
