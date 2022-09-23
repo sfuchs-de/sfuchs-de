@@ -7,7 +7,7 @@
 
 ### Where to find me 
 
-- My research work is available via my [webpage](https://sfuchs-de.github.io/)
+- On overview of my current research is available on my [webpage](https://sfuchs-de.github.io/)
 - I [tweet](https://twitter.com/SimonFuchs4) occasionally about urban economics, transportation or trade
 
 <!--
